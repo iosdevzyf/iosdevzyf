@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iosdevzyf
-- 👀 I’m interested in developing mobile applications on IOS.
-- 🌱 I’m currently learning objective-c and swift, and developing an IOS application.
-- 💞️ I’m looking to collaborate on developing IOS or OS-X applications that I'm interested in.
+- 👀 I’m interested in developing mobile applications on iOS.
+- 🌱 I’m currently learning objective-c and swift, and developing an iOS application.
+- 💞️ I’m looking to collaborate on developing iOS or OS-X applications that I'm interested in.
 - 📫 If you want to reach me, pls contact iosdevzyf@gmail.com.
 
 <!---
